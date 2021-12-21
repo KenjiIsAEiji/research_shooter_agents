@@ -58,7 +58,7 @@
 このGitHubの[Releases](https://github.com/KenjiIsAEiji/research_shooter_agents/releases)から、Assetsのプルダウンの中にある「testAppData.zip」でもダウンロードできます。
 
 ゲームは、**Windows10搭載のパソコンで実行可能です**。**MacOSには対応しておりませんのでご注意ください**。
-(なお、Windows10搭載のノートパソコンでも動作が可能であることを確認しました。)
+(なお、Windows10搭載のノートパソコンで動作が可能であることを確認しました。)
 
 解凍したフォルダの中の、「ShooterAgents.exe」を実行すると、ゲームが起動します。
 
