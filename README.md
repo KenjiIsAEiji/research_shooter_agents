@@ -61,7 +61,7 @@
 
 (Zip状態で約29MB、解凍後は約73.8MB）
 
-このGitHubの[Releases](https://github.com/KenjiIsAEiji/research_shooter_agents/releases)から、Assetsのプルダウンの中にある「testAppData.zip」でもダウンロードできます。
+このGitHubの[Releases](https://github.com/KenjiIsAEiji/research_shooter_agents/releases)から、最新バージョンのAssetsのプルダウンの中にある「testAppData.zip」でもダウンロードできます。
 
 ゲームは、**Windows10搭載のパソコンで実行可能です**。**MacOSには対応しておりませんのでご注意ください**。
 (なお、Windows10搭載のノートパソコンで動作が可能であることを確認しました。)
