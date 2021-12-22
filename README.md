@@ -57,7 +57,7 @@
 
 以下のリンクから、検証用アプリケーションをダウンロードしてください。
 
-[ダウンロードリンク(testAppData.zip)](https://github.com/KenjiIsAEiji/research_shooter_agents/releases/download/v0.1-pre-release/testAppData.zip)
+[ダウンロードリンクv1.0.0(testAppData.zip)](https://github.com/KenjiIsAEiji/research_shooter_agents/releases/download/v1.0.0/testAppData.zip)
 
 (Zip状態で約29MB、解凍後は約73.8MB）
 
